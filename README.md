@@ -4,7 +4,7 @@
 
 ### Ignite Lab - eSports
 
-### O projeto que simula um app que ajudar a encontrar sua duo
+### Um app web e mobile que ajudar o usuário a encontrar o seu duo 
 
 ## 🚀 Iniciando o projeto
 
