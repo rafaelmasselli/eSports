@@ -1,14 +1,12 @@
 <h1 align="center"> 🎮 eSports 🕹️</h1>
 
-## 💻 Projeto
+### Descrição
 
-### Ignite Lab - eSports
+#### O aplicativo web e mobile em questão é uma plataforma que tem como objetivo ajudar o usuário a encontrar seu duo ideal. Por meio de algoritmos e perfis criados pelos próprios usuários, a plataforma sugere possíveis matches, permitindo que os usuários se comuniquem e se conheçam melhor. O app é voltado para pessoas que procuram uma duo para sua jogatina. A plataforma utiliza uma interface intuitiva e de fácil uso, permitindo que o usuário navegue e encontre seu duo de forma rápida e eficiente 
 
-### Um app web e mobile que ajudar o usuário a encontrar o seu duo 
+### 🚀 Iniciando o projeto
 
-## 🚀 Iniciando o projeto
-
-### Clone o projeto com <a href="https://git-scm.com/">git</a>
+#### Clone o projeto com <a href="https://git-scm.com/">git</a>
 
 ```bash
 # Na pasta que voce deseja clonar o projeto abra o terminal e escreva
@@ -41,14 +39,14 @@ $ expo start
 # Aperte "A" para instalar automaticamente o expo no android studio
 ```
 
-### E assim iria abrir o projeto no mobile
+#### E assim iria abrir o projeto no mobile
 
 <div align="center" >
 
    ![](./.github/2022-10-04-19-46-11.gif)
 
 </div>
-### Para iniciar o projeto web voce vai precisar do <a href="https://nodejs.org/en/">Node js</a>
+#### Para iniciar o projeto web voce vai precisar do <a href="https://nodejs.org/en/">Node js</a>
 
 ```bash
 # Entre na pasta "client" e instale as dependências
@@ -65,7 +63,7 @@ $ npm run dev
 
 </div>
 
-## 🔖 Layout
+### 🔖 Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
